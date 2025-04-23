@@ -6,6 +6,6 @@ class Sum {
         ) {
             sum = sum + num;
         }
-        System.out.println(" Result Sum::" + sum)
+        System.out.println(" Result and Sum::" + sum)
     }
 }
