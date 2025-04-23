@@ -5,8 +5,7 @@ class Sum {
         for (int num : arr
         ) {
             sum = sum + num;
-
         }
-        System.out.println("Sum::" + sum)
+        System.out.println(" Result Sum::" + sum)
     }
 }
